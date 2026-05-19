@@ -10,7 +10,7 @@ I build full-stack web applications — from REST APIs and authentication system
 
 | Project | Live | Description | Tech |
 |---|---|---|---|
-| [Portfolio](https://github.com/amanchouhan01/Portfolio) | [🔗 Live](https://aman-chouhan.onrender.com/) | Personal portfolio website with JWT-secured contact form, REST APIs, and full MERN stack | React, Node.js, Express, MongoDB, JWT |
+| [MERN-Portfolio](https://github.com/amanchouhan01/Portfolio) | [🔗 Live](https://aman-chouhan.onrender.com/) | Personal portfolio website with JWT-secured contact form, REST APIs, and full MERN stack | React, Node.js, Express, MongoDB, JWT |
 | [StudySync](https://github.com/amanchouhan01/StudySync) | [🔗 Live](https://studysync-kwel.onrender.com/) | Multi-page responsive educational frontend with dark mode toggle and optimised layout | HTML, CSS, JavaScript |
 | [SmartShop Extension](https://github.com/amanchouhan01/SmartShop-Extension) | — | Browser extension that analyzes and compares product prices across e-commerce platforms | JavaScript, Chrome APIs |
 | [health-bot-ai](https://github.com/amanchouhan01/health-bot-ai) | — | AI-powered health assistant chatbot | JavaScript |
