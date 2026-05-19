@@ -10,4 +10,5 @@ health-bot-ai — AI-powered health assistant chatbot built with JavaScript
 
 Stack: JavaScript · React.js · Node.js · Express.js · MongoDB · Tailwind CSS · REST APIs · Git · GitHub
 Currently learning: TypeScript · System Design · Backend optimisation patterns
+
 Open to SDE internships. Reach me at amanc0508@gmail.com
