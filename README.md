@@ -1,14 +1,45 @@
-Aman Chouhan
-Full-Stack Developer (MERN) · ECE @ JNU '27 · New Delhi
+# Hi, I'm Aman Chouhan 👋
+
+**Full-Stack Developer (MERN) · ECE @ JNU '27 · New Delhi**
+
 I build full-stack web applications — from REST APIs and authentication systems to responsive React frontends. Focused on writing clean, functional code and shipping projects that work.
-What I've built:
 
-Leet Metric — live LeetCode analytics dashboard fetching real-time user stats via REST API, built with React and Tailwind CSS
-SmartShop Extension — browser extension that analyzes and compares product prices across e-commerce platforms using JavaScript
-StudySync — multi-page responsive educational frontend with dark mode toggle and optimised layout across devices
-health-bot-ai — AI-powered health assistant chatbot built with JavaScript
+---
 
-Stack: JavaScript · React.js · Node.js · Express.js · MongoDB · Tailwind CSS · REST APIs · Git · GitHub
-Currently learning: TypeScript · System Design · Backend optimisation patterns
+## 🛠️ What I've Built
 
-Open to SDE internships. Reach me at amanc0508@gmail.com
+| Project | Description | Tech |
+|---|---|---|
+| [SmartShop Extension](https://github.com/amanchouhan01/SmartShop-Extension) | Browser extension that analyzes and compares product prices across e-commerce platforms | JavaScript, Chrome APIs |
+| [StudySync](https://github.com/amanchouhan01/StudySync) | Multi-page responsive educational frontend with dark mode toggle and optimised layout | HTML, CSS, JavaScript |
+| [health-bot-ai](https://github.com/amanchouhan01/health-bot-ai) | AI-powered health assistant chatbot | JavaScript |
+
+---
+
+## ⚙️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+---
+
+## 📈 Currently Learning
+
+- TypeScript
+- System design fundamentals
+- Backend patterns — caching, rate limiting, database indexing
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [linkedin.com/in/aman-chouhan-sde](https://www.linkedin.com/in/aman-chouhan-sde/)
+- Open to SDE internships and full-time roles from 2027
+- Email: amanch55_soe@jnu.ac.in, amanc0508@gmail.com
